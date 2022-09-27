@@ -35,4 +35,4 @@ ZCZC W04 99 L02 ZOOM meetings related
 ZCZC W04 10 L03 GitHub related
 ZCZC W04 10 L04 GitHub Pages related
 ZCZC W04  2 L05 QUIZ
-ZCZC W04 99 L09 Weekly Assignments
+ZCZC W04 110 L09 Weekly Assignments
